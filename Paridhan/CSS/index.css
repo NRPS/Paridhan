@@ -1,0 +1,12 @@
+﻿body{
+    background-color:#ECEDF1;
+}
+
+header h3{
+    color:white;
+}
+
+.navbar,header{
+  background-color:#1a1a1a;
+  border-color:#1a1a1a;
+}

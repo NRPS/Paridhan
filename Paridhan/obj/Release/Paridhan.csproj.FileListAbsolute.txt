@@ -1,0 +1,6 @@
+E:\2016_Works\Paridhan\Paridhan\bin\Paridhan.dll.config
+E:\2016_Works\Paridhan\Paridhan\bin\Paridhan.dll
+E:\2016_Works\Paridhan\Paridhan\bin\Paridhan.pdb
+E:\2016_Works\Paridhan\Paridhan\obj\Release\Paridhan.csprojResolveAssemblyReference.cache
+E:\2016_Works\Paridhan\Paridhan\obj\Release\Paridhan.dll
+E:\2016_Works\Paridhan\Paridhan\obj\Release\Paridhan.pdb
